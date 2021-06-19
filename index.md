@@ -10,4 +10,4 @@ tradenow模拟交易平台（股票、期货、期权、量化交易）提供与
 ![qrcode_for_gh_564e4bf4668c_258](https://user-images.githubusercontent.com/83346523/122651038-d4af6300-d168-11eb-8ded-5c6859eafc9a.jpg)
 
 ## 微信
-![krenx](https://user-images.githubusercontent.com/83346523/122651044-da0cad80-d168-11eb-8605-d1d505ce3e9e.jpg)
+<img src="https://user-images.githubusercontent.com/83346523/122651044-da0cad80-d168-11eb-8605-d1d505ce3e9e.jpg" alt="krenx" style="zoom: 45%;" />
