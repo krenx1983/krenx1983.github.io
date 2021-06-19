@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## 关注我带你了解交易系统开发技术
 
-You can use the [editor on GitHub](https://github.com/krenx1983/krenx.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [tradenow](https://github.com/krenx1983/tradenow)
+tradenow模拟交易平台（股票、期货、期权、量化交易）提供与CTP接口兼容的dll，一定程序上可替代Simnow等模拟交易平台，使用者只需替换CTP交易dll，程序无需重新编译即可使用。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [TextTrader](https://github.com/krenx1983/TextTrader)
+命令行交易终端（股票、期货、期权），绝大部分命令与VI编辑器中相同，支持CTP柜台、tradenow平台等，支持Windows、Linux、MacOSX等操作系统。
 
-### Markdown
+## 模拟交易平台公众号
+![qrcode_for_gh_564e4bf4668c_258](https://user-images.githubusercontent.com/83346523/122651038-d4af6300-d168-11eb-8ded-5c6859eafc9a.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krenx1983/krenx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 微信
+![krenx](https://user-images.githubusercontent.com/83346523/122651044-da0cad80-d168-11eb-8605-d1d505ce3e9e.jpg)
