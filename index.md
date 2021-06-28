@@ -10,6 +10,3 @@
 
 ## QQ交流群
 <img src="https://user-images.githubusercontent.com/83346523/123681362-50ea2a80-d87c-11eb-8c55-5bb1ae6030d1.jpg" alt="QQ群" style="zoom: 45%;" />
-
-## 我的微信
-<img src="https://user-images.githubusercontent.com/83346523/122651044-da0cad80-d168-11eb-8605-d1d505ce3e9e.jpg" alt="krenx" style="zoom: 45%;" />
