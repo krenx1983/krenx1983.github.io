@@ -12,5 +12,5 @@
 ## QQ交流群（546977604）
 <img src="https://user-images.githubusercontent.com/83346523/123681362-50ea2a80-d87c-11eb-8c55-5bb1ae6030d1.jpg" alt="krenx微信" width="300" height="300" />
 
-## 微信技术交流群先加这个微信
+## 微信交流群先加这个微信
 <img src="https://user-images.githubusercontent.com/83346523/143476515-e7e9f086-40b7-47d1-a0e3-85a41a2912bf.jpg" alt="krenx微信" width="300" height="300" />
